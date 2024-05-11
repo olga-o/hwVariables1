@@ -24,7 +24,7 @@ public class Main {
         paper = paper - 7639;
         System.out.println("\nTask 3.\n(dog + 4) - 3.5 = " + dog);
         System.out.println("(cat + 4) - 1.6 = " + cat);
-        System.out.println("(paper +4)- 7639 = " + paper);
+        System.out.println("(paper +4) - 7639 = " + paper);
 
         //Task 4
         var friend = 19;
